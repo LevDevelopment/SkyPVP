@@ -1,0 +1,22 @@
+name: SkyPVP
+version: 1.0
+author: Zocker_SK
+main: net.noboplay.skypvp.SkyPVP
+commands:
+  build:
+  create:
+  egg:
+  enderchest:
+  fix:
+  invsee:
+  money:
+  setspawn:
+  spawn:
+  stats:
+  top:
+  pos:
+  event:
+  spectate:
+  frieden:
+    aliases: [peace]
+  tp:
